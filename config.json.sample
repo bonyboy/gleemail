@@ -1,0 +1,24 @@
+{
+	"eloqua": {
+		"company": "COMPANY_NAME",
+		"username": "USERNAME",
+		"password": "PASSWORD"
+	},
+	"litmus": {
+		"username": "USERNAME",
+		"password": "PASSWORD",
+		"url": "http://domain.litmus.com"
+	},
+	"s3": {
+		"key": "KEY",
+		"secret": "SECRET",
+		"bucket": "BUCKET"
+	},
+	"smtp": {
+		"service": "Gmail",
+		"auth": {
+			"user": "USERNAME",
+			"pass": "PASSWORD"
+		}
+	}
+}
